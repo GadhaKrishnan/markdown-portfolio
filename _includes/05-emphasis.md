@@ -1,7 +1,7 @@
-*This text will be italic*
-_This will also be italic_
+*Aspiring programmer*
+_Aspiring entrepreneur _
 
-**This text will be bold**
-__This will also be bold__
+**Be creative **
+__Be creative__
 
 _You **can** combine them_
